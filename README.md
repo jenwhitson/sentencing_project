@@ -31,7 +31,7 @@ A presentation of 5-7 visualizations displaying the following findings:
 <br><br>
 ## Data Sources
 Census Reporter:
-https://censusreporter.org 
+https://censusreporter.tumblr.com/post/73727555158/easier-access-to-acs-data
 <br><br>
 U.S. Sentencing Commission:
 https://www.ussc.gov/research/datafiles/commission-datafiles 
