@@ -14,8 +14,9 @@ I worked as a paralegal for 10 years and have always been very interested in the
 3. Defendants across racial lines receive sentences 10x longer on average than defendants who plead. This creates a strong incentive for defendants (regardless of race) to plead out rather than pursue their constitutional right to a trial by jury.
 <br><br>
 ## Presentation
-<a href = 'https://github.com/jenwhitson/sentencing_project/blob/main/Presentation_as_PDF.pdf'>Click here</a> to view my full presentation.
-<a href = 'https://github.com/jenwhitson/sentencing_project/blob/main/notebooks/individual_offender_eda.ipynb'>Click here</a> to view my analysis in Python.
+<a href = 'https://github.com/jenwhitson/sentencing_project/blob/main/Presentation_as_PDF.pdf'>Click here</a> to view my full presentation.<br>
+<a href = 'https://github.com/jenwhitson/sentencing_project/blob/main/Presentation_Additional_Slides_as_PDF.pdf'>Click here</a> to see additional insights and visualizations.<br>
+<a href = 'https://github.com/jenwhitson/sentencing_project/blob/main/notebooks/individual_offender_eda.ipynb'>Click here</a> to view my full analysis in Python.
 <br><br>
 ## Data Sources
 Census Reporter:
