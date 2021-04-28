@@ -14,9 +14,9 @@ I worked as a paralegal for 10 years and have always been very interested in the
 3. Defendants across racial lines receive sentences 10x longer on average than defendants who plead. This creates a strong incentive for defendants (regardless of race) to plead out rather than pursue their constitutional right to a trial by jury.
 <br><br>
 ## Presentation
-<a href = 'https://github.com/jenwhitson/sentencing_project/blob/main/Presentation_as_PDF.pdf'>Click here</a> to view my full presentation.<br>
-<a href = 'https://github.com/jenwhitson/sentencing_project/blob/main/Presentation_Additional_Slides_as_PDF.pdf'>Click here</a> to see additional insights and visualizations.<br>
-<a href = 'https://github.com/jenwhitson/sentencing_project/blob/main/notebooks/individual_offender_eda.ipynb'>Click here</a> to view my full analysis in Python.
+<a href = "https://github.com/jenwhitson/sentencing_project/blob/main/Presentation_as_PDF.pdf" target="_blank" rel="noopener noreferrer">Click here</a> to view my full presentation.<br>
+<a href = "https://github.com/jenwhitson/sentencing_project/blob/main/Presentation_Additional_Slides_as_PDF.pdf" target="_blank" rel="noopener noreferrer">Click here</a> to see additional insights and visualizations.<br>
+<a href = "https://github.com/jenwhitson/sentencing_project/blob/main/notebooks/individual_offender_eda.ipynb" target="_blank" rel="noopener noreferrer">Click here</a> to view my full analysis in Python.
 <br><br>
 ## Data Sources
 Census Reporter:
@@ -26,7 +26,7 @@ U.S. Sentencing Commission:
 https://www.ussc.gov/research/datafiles/commission-datafiles 
 <br><br>
 ## Additional Resources
-- Barkow, Rachel Elise. <a href = 'https://smile.amazon.com/gp/product/0674248325/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1'>Prisoners of Politics: Breaking the Cycle of Mass Incarceration</a>. Harvard University Press, 2019.
-- U.S. Sentencing Commission. “<a href = 'https://www.ussc.gov/research/research-reports/inter-district-differences-federal-sentencing-practices'>Inter-District Differences in Federal Sentencing Practices</a>,” 2020.
-- U.S. Sentencing Commission. “<a href = 'https://www.ussc.gov/research/research-reports/demographic-differences-sentencing'>Demographic Differences in Sentencing</a>,” 2017.
-- The Sentencing Project. “<a href = 'https://www.sentencingproject.org/the-facts/#detail?state1Option=Tennessee&state2Option=Federal'>State-by-State Data</a>,” 2019.
+- Barkow, Rachel Elise. <a href = "https://smile.amazon.com/gp/product/0674248325/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1" target="_blank" rel="noopener noreferrer"><i>Prisoners of Politics: Breaking the Cycle of Mass Incarceration</i></a>. Harvard University Press, 2019.
+- U.S. Sentencing Commission. “<a href = "https://www.ussc.gov/research/research-reports/inter-district-differences-federal-sentencing-practices" target="_blank" rel="noopener noreferrer">Inter-District Differences in Federal Sentencing Practices</a>,” 2020.
+- U.S. Sentencing Commission. “<a href = "https://www.ussc.gov/research/research-reports/demographic-differences-sentencing" target="_blank" rel="noopener noreferrer">Demographic Differences in Sentencing</a>,” 2017.
+- The Sentencing Project. “<a href = "https://www.sentencingproject.org/the-facts/#detail?state1Option=Tennessee&state2Option=Federal" target="_blank" rel="noopener noreferrer">State-by-State Data</a>,” 2019.
