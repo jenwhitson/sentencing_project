@@ -15,9 +15,14 @@ I worked as a paralegal for 10 years and have always been very interested in the
 <br><br>
 ## Presentation
 <a href = "https://github.com/jenwhitson/sentencing_project/blob/main/Presentation_as_PDF.pdf">Click here</a> to view my full presentation.<br>
-<a href = "https://github.com/jenwhitson/sentencing_project/blob/main/Presentation_Additional_Slides_as_PDF.pdf">Click here</a> to see additional insights and visualizations.<br>
-<a href = "https://github.com/jenwhitson/sentencing_project/blob/main/notebooks/individual_offender_eda.ipynb">Click here</a> to view my full analysis in Python.<br>
-<a href = 'https://github.com/jenwhitson/sentencing_project/projects/2'>Click here</a> to view my kanban board for this project.
+<a href = "https://github.com/jenwhitson/sentencing_project/blob/main/Presentation_Additional_Slides_as_PDF.pdf">Click here</a> to see additional insights and visualizations.
+<br><br>
+## Cleaning, Coding, and Project Management
+If you're interested:
+- <a href = "https://github.com/jenwhitson/sentencing_project/blob/main/notebooks/individual_offender_eda.ipynb">Here</a> is my full analysis in Python
+- <a href = 'https://github.com/jenwhitson/sentencing_project/projects/2'>Here</a> is my kanban board for this project
+- <a href = 'https://github.com/jenwhitson/sentencing_project/blob/main/data/Codebook%20for%20Individual%20Offenders.pdf'>Here</a> is the codebook for all available dimensions of this data
+- <a href = "https://github.com/jenwhitson/sentencing_project/blob/main/data/opafy_dimensions.xlsx">Here</a> is my spreadsheet of the 201 dimensions I selected to analyze and my categorizations of those dimensions
 <br><br>
 ## Data Sources
 Census Reporter:
