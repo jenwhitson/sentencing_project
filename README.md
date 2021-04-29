@@ -16,8 +16,8 @@ I worked as a paralegal for 10 years and have always been very interested in the
 ## Presentation
 <a href = "https://github.com/jenwhitson/sentencing_project/blob/main/Presentation_as_PDF.pdf">Click here</a> to view my full presentation.<br>
 <a href = "https://github.com/jenwhitson/sentencing_project/blob/main/Presentation_Additional_Slides_as_PDF.pdf">Click here</a> to see additional insights and visualizations.<br>
-<a href = "https://github.com/jenwhitson/sentencing_project/blob/main/notebooks/individual_offender_eda.ipynb">Click here</a> to view my full analysis in Python.
-<a hred = 'https://github.com/jenwhitson/sentencing_project/projects/2'>Click here</a> to view my kanban board for this project.
+<a href = "https://github.com/jenwhitson/sentencing_project/blob/main/notebooks/individual_offender_eda.ipynb">Click here</a> to view my full analysis in Python.<br>
+<a href = 'https://github.com/jenwhitson/sentencing_project/projects/2'>Click here</a> to view my kanban board for this project.
 <br><br>
 ## Data Sources
 Census Reporter:
