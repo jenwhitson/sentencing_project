@@ -11,7 +11,7 @@ I worked as a paralegal for 10 years and have always been very interested in the
 ## Key Findings
 1. Black and Hispanic Tennesseans are incarcerated at a rate of 3.5x that of white Tennesseeans.
 2. Black defendants are 40% less likely than white defendants to receive sentence reductions, but twice as likely to receive designations that substantially lengthen their sentences.
-3. Defendants across racial lines receive sentences 10x longer on average than defendants who plead. This creates a strong incentive for defendants (regardless of race) to plead out rather than pursue their constitutional right to a trial by jury.
+3. Defendants across racial lines receive sentences up to 100 years longer for nonviolent crimes than defendants who plead. This creates a strong incentive for defendants (regardless of race) to plead out rather than pursue their constitutional right to a trial by jury.
 <br><br>
 ## Presentation
 - <a href = "https://github.com/jenwhitson/sentencing_project/blob/main/Presentation_as_PDF.pdf">Click here</a> to view my full presentation
